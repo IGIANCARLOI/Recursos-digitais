@@ -1,0 +1,23 @@
+/*
+ * 
+ * 22.Faça um programa que leia uma string, faça a sua inversão e imprima na tela
+*  a string invertida. Dica: pesquise sobre a função strrev() (somente Windows).
+ * 
+ * 
+ */
+#include <?????.h>
+#include <??????.h>
+
+
+int ????()
+{
+   ???? palavra[50];
+
+   printf("Informe a string: ");
+   scanf("??", palavra);
+   ??????(???????)
+
+   printf("A string invertida e: ??", ???????);
+
+   return 0?
+}
